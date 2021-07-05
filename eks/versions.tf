@@ -31,6 +31,6 @@ terraform {
     }
   }
 
-  required_version = "~> 3.20.0"
+  required_version = ">=0.13"
 }
 
