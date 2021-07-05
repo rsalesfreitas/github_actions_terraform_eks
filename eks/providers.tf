@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     bucket = "terraform-deploy-eks-doreginho"
-    key    = "reginaldo.freitas_terraform"
+    key    = "devops-ninja-eks"
     region = "us-east-2"
   }
 }
